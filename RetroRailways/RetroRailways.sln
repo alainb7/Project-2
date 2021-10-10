@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "RetroRailways", "RetroRailways\RetroRailways.vbproj", "{A2197FD6-76FB-4FDD-A5BF-8A2175C1D8FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2197FD6-76FB-4FDD-A5BF-8A2175C1D8FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2197FD6-76FB-4FDD-A5BF-8A2175C1D8FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2197FD6-76FB-4FDD-A5BF-8A2175C1D8FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2197FD6-76FB-4FDD-A5BF-8A2175C1D8FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B9E0C8A-09C2-4007-BBA6-BB852F085226}
+	EndGlobalSection
+EndGlobal
